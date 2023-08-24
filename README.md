@@ -7,3 +7,5 @@ GitKraken test
 another test
 
 New test
+
+Command output
