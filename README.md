@@ -9,3 +9,5 @@ another test
 New test
 
 Command output
+
+Another one
